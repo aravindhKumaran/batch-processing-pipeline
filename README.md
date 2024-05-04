@@ -50,7 +50,7 @@ This repository contains the source code and documentation for building a batch 
 ### Installation and Setup
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your_username>/batch_processing_pipeline.git
+git clone https://github.com/aravindhKumaran/batch-processing-pipeline.git
 ```
 
 2. Create Lambda functions:
